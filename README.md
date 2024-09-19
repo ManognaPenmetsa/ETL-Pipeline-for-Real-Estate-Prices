@@ -17,9 +17,9 @@
  - The processed data is stored in a Delta Lake across different layers to ensure data integrity and scalability, followed by ingestion into Apache Druid for real-time data querying and analysis.
 
 ## Project Highlights:
- - Data Source: Scraped real estate data from Immo Scout 24, including property descriptions, features, and prices.
- - ETL Pipeline: Built using PySpark inside Jupyter Notebooks to process raw data and train a machine learning model.
- - Real-Time Analytics: Integrated Apache Druid and Apache Superset to track model performance and make data-driven decisions.
+ - **Data Source**: Scraped real estate data from Immo Scout 24, including property descriptions, features, and prices.
+ - **ETL Pipeline**: Built using PySpark inside Jupyter Notebooks to process raw data and train a machine learning model.
+ - **Real-Time Analytics**: Integrated Apache Druid and Apache Superset to track model performance and make data-driven decisions.
    
 ## Key Responsibilities:
  - Set up an environment using Docker to manage services and dependencies.
